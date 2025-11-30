@@ -1,41 +1,149 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
-======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<!-- =========================== -->
+<!--   🚀 S U M A A N Y U - N A Y A K   -->
+<!-- =========================== -->
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: dipayansarkar265482@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+<!-- MOVING BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00F7FF&width=700&lines=Hey+I'm+Sumaanyu+Nayak;AI+%7C+Robotics+%7C+Web+Dev+%7C+Systems;Full+Stack+Developer;Drone+%26+Hexapod+R%26D+Engineer;I+Build+Tech+That+Feels+Like+Magic✨" />
+</p>
 
-<a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
+<!-- NEON AVATAR -->
+<p align="center">
+  <img src="https://api.multiavatar.com/SumaanyuNayak.svg?apikey=sumaanyu" width="200" style="filter: drop-shadow(0 0 15px #00eaff);" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbiki?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
+<!-- GLOWING TITLE -->
+<h1 align="center">
+  <span style="color:#00fff2; text-shadow: 0 0 10px #00fff2, 0 0 20px #00fff2;">⚡ S U M A A N Y U  N A Y A K ⚡</span>
+</h1>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- ANIME / HACKER MOTION DIVIDER -->
+<p align="center">
+  <img src="https://i.imgur.com/2RMgG.gif" width="600">
+</p>
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
+
+# 🧬 About Me  
+```
+
+```
+  ███████╗██╗   ██╗███╗   ███╗ █████╗  █████╗ ███╗   ██╗██╗   ██╗██╗   ██╗
+  ██╔════╝██║   ██║████╗ ████║██╔══██╗██╔══██╗████╗  ██║██║   ██║╚██╗ ██╔╝
+  █████╗  ██║   ██║██╔████╔██║███████║███████║██╔██╗ ██║██║   ██║ ╚████╔╝ 
+  ██╔══╝  ██║   ██║██║╚██╔╝██║██╔══██║██╔══██║██║╚██╗██║██║   ██║  ╚██╔╝  
+  ██║     ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚████║╚██████╔╝   ██║   
+  ╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   
+```
+
+```
+
+**Builder of Impossible Things.**  
+**AI/ML | Robotics | Systems | Full-Stack | Embedded | Drones | Hexapods | Optical Flow | IoT**  
+
+If it has **servos**, **sensors**, **satellite links**, **ML models**, **microservices**,  
+or a **terminal that flashes green** —  
+I am definitely building something crazy with it.  
 
 
-# Badges 
+# 🧠 What I’m Building  
+- 🤖 **Saarthi AI** – a personal LLM assistant w/ memory + plugins  
+- 🐍 **Optical Flow Sub-pixel Tracker** – for autonomous drones  
+- 🧘‍♂️ **Sanskrit Pronunciation Analyzer** – MFCC + DTW + scoring  
+- 🛰 **Satellite-Communicating Drone** (low power comm)  
+- 🕸 **Microservice Monorepo** – Node.js + JWT gateway + Cloudinary  
+- 🕹 **18 DOF Hexapod Robot** – fully custom servo controller  
+- 🌐 **Electron + React Desktop Apps**  
+- 📦 **Blynk-style IoT platform (self-hosted)**  
 
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
 
-<b>My GitHub Stats</b>
+# ⚙️ My Tech Stack
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
+```
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipayansarkar47&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Languages:   C++ | Python | JS | TS | PHP | Bash | HTML/CSS
+Frameworks:  React | Node.js | Express | Flask | OpenGL | Electron
+AI/ML:       PyTorch | TensorFlow | OpenCV | Scikit-Learn
+Robotics:    ROS | LCM | CycloneDDS | Pixhawk | Arduino | ESP32
+Cloud/DevOps: Docker | Linux | Firebase | MongoDB | GitHub Actions
 
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipayansarkar47&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+```
 
-<a href="https://github.com/dipayansarkar47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipayansarkar47&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+# 🏆 Achievements
+- 🥇 **1st – IIT Techfest Zonals**  
+- 🥈 **2nd – Line Follower – BITS Goa**  
+- 🏅 **Top 5 – CampK12 Hackathon**  
+- 🎬 **3rd – Radio Raga Video Editing**  
 
-<div width="100%" align="center"><a href="https://github.com/dipayansarkar47/Dipayan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dipayansarkar47/Sandesh" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+---
+
+# 📈 GitHub Stats (Neon Mode)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumaanyu-Nayak&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumaanyu-Nayak&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanyu-Nayak&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumaanyu-Nayak/Sumaanyu-Nayak/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎮 Fun Easter Eggs
+
+```
+
+$ whoami
+
+> Sumaanyu — Builder of Impossible Things
+
+$ systemctl start creativity
+
+> creativity.service started 🎨
+
+$ ./launch-drone.sh
+
+> Satellite uplink established 🚀
+
+```
+
+---
+
+# 🎧 Anime / Hacker Vibes
+
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="600">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/o7ncF4F.gif" width="400">
+</p>
+
+---
+
+# 📬 Connect With Me  
+- ✉️ Email: **sumaanyunayak@gmail.com**  
+- 🌐 Portfolio (soon)  
+- 💼 LinkedIn (optional)  
+- 🕸 Twitter (optional)  
+
+---
+
+# 🌌 Final Message  
+<h3 align="center">
+  <span style="color:#00eaff; text-shadow: 0 0 15px #00eaff;">
+    Let's build something outrageously futuristic together ⚡
+  </span>
+</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/3o7Eo7v.gif" width="500">
+</p>
