@@ -9,7 +9,7 @@
 
 <!-- NEON AVATAR -->
 <p align="center">
-  <img src="https://api.multiavatar.com/SumaanyuNayak.svg?apikey=sumaanyu" width="200" style="filter: drop-shadow(0 0 15px #00eaff);" />
+  <img src="https://avatars.githubusercontent.com/u/159812538?v=4" width="200" style="border-radius:50%;box-shadow:0 0 20px #00eaff;">
 </p>
 
 <!-- GLOWING TITLE -->
@@ -17,9 +17,9 @@
   <span style="color:#00fff2; text-shadow: 0 0 10px #00fff2, 0 0 20px #00fff2;">⚡ S U M A A N Y U  N A Y A K ⚡</span>
 </h1>
 
-<!-- ANIME / HACKER MOTION DIVIDER -->
+<!-- CLEAN ANIME / HACKER DIVIDER (works forever) -->
 <p align="center">
-  <img src="https://i.imgur.com/2RMgG.gif" width="600">
+  <img src="https://raw.githubusercontent.com/Level20Hazard/Anime-GIFs/main/GIFs/35.gif" width="600">
 </p>
 
 
