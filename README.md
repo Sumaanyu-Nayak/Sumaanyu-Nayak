@@ -14,7 +14,7 @@
 
 <!-- GLOWING TITLE -->
 <h1 align="center">
-  <span style="color:#00fff2; text-shadow: 0 0 10px #00fff2, 0 0 20px #00fff2;">⚡ S U M A A N Y U  N A Y A K ⚡</span>
+  <span style="color:#00fff2; text-shadow: 0 0 10px #00fff2, 0 0 20px #00fff2;">⚡ S U M A A N Y U   N A Y A K ⚡</span>
 </h1>
 
 <!-- CLEAN ANIME / HACKER DIVIDER (works forever) -->
