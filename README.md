@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00f7ff&height=120&section=header&text=SUMAANYU%20NAYAK&fontSize=42&fontColor=00f7ff&fontAlignY=65&animation=fadeIn" />
 
 <br/>
+<center>
 
 ```
  ██████╗  ██████╗ ██████╗  ██████╗ ████████╗██╗ ██████╗███████╗
@@ -12,6 +13,7 @@
  ██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   ██║╚██████╗███████║
  ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═╝   ╚═╝ ╚═════╝╚══════╝
 ```
+</center>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=I+build+robots+that+walk+on+18+servos.;I+run+my+own+3-node+bare-metal+cluster.;I+debug+at+the+packet+level.;I+ship+to+production.;IEEE+published+%40+20.;DRDO+%C3%97+2.+AIT+%E2%80%9827." />
 
@@ -64,18 +66,15 @@ I like owning the whole system. From PCB to API. From ROS to React. From kernel 
 ┌─────────────────────────────────────────────────────────────────┐
 │                    SHATPADI — 18-DOF HEXAPOD                    │
 ├──────────────────────┬──────────────────────────────────────────┤
-│  DEGREES OF FREEDOM  │  18  (3 per leg × 6 legs)               │
-│  ACTUATORS           │  18× MG995 Metal Gear Servos            │
-│  SERVO DRIVERS       │  2× Pololu Maestro 18-ch                │
-│  MAIN COMPUTE        │  Raspberry Pi 5 (8GB)                   │
-│  SENSORS             │  RPLidar A1M8 · BN880 GPS               │
-│                      │  RPi Cam Module 3 · NoIR Cam            │
-│                      │  18× NTC Thermistors · 6× Contact SW    │
-│  COMMS               │  LoRa Module · TL-WR840N (onboard WiFi) │
-│  EXTRAS              │  Mini pump · 2× cooling fans            │
-│  SOFTWARE            │  ROS · Analytical IK · Tripod/Ripple    │
-│                      │  Body-pose stabilisation · Nav stack    │
-│  PUBLICATION         │  IEEE ISED-2025, Raipur ✓               │
+│  DEGREES OF FREEDOM  │  18  (3 per leg × 6 legs)                │
+│  ACTUATORS           │  18× MG995 Servos                        │
+│  SERVO DRIVERS       │  32 ch servo driver                      │
+│  MAIN COMPUTE        │  Raspberry Pi 5 (8GB)                    │
+│  SENSORS             │  BN880 GPS · Lidar                       │
+│  COMMS               │  LoRa Comm                               │
+│  SOFTWARE            │  ROS · Analytical IK · Tripod/Ripple     │
+│                      │  Body-pose stabilisation · Nav stack     │
+│  PUBLICATION         │  IEEE ISED-2025, Raipur ✓                │
 └──────────────────────┴──────────────────────────────────────────┘
 ```
 
@@ -94,9 +93,6 @@ I like owning the whole system. From PCB to API. From ROS to React. From kernel 
 │                    HOMELAB ARCHITECTURE                      │
 ├───────────────────────┬──────────────────────────────────────┤
 │  CLUSTER              │  3× Lenovo Mini PC                   │
-│  CPU                  │  Intel i5 9th Gen (×3)               │
-│  RAM                  │  16GB DDR4 per node (48GB total)     │
-│  STORAGE              │  256GB per node                      │
 │  HYPERVISOR           │  Proxmox VE (bare metal)             │
 │  WORKLOADS            │  VMs · LXC containers · 10+ services │
 ├───────────────────────┼──────────────────────────────────────┤
