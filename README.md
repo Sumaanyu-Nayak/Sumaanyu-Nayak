@@ -275,6 +275,10 @@ Good engineering starts where the happy path ends.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0d1117&height=80&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumaanyu-Nayak/Sumaanyu-Nayak/output/github-contribution-grid-snake.gif" />
+</p>
+
 ```
 Hardware is the body.   Software is the nervous system.
 AI is the intelligence.   Engineering connects them.
