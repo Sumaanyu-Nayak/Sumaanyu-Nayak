@@ -255,18 +255,18 @@ Good engineering starts where the happy path ends.
 ## `> htop` — *github stats*
 
 <div align="center">
-
+<!--
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumaanyu-Nayak&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=ff00ff&text_color=FFFFFF&bg_color=00000000&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanyu-Nayak&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=00000000&langs_count=8" />
-
+-->
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Sumaanyu-Nayak&theme=dark&hide_border=true&background=00000000&ring=00F7FF&fire=ff00ff&currStreakLabel=00F7FF&sideLabels=FFFFFF" />
 
 <br/><br/>
-
+<!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaanyu-Nayak&bg_color=0d1117&color=00F7FF&line=ff00ff&point=FFFFFF&area=true&hide_border=true" />
-
+-->
 </div>
 
 ---
